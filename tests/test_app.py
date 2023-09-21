@@ -1,3 +1,4 @@
+import flask_app
 import pytest
 import os
 from pathlib import Path
